@@ -1,4 +1,5 @@
 # Sadece Yapay Sinir Ağı Kullanarak Balık Sınıflandırma
+Kaggle bağlantısı:https://www.kaggle.com/code/recepx/balik-siniflandirma
 
 ## Proje Genel Bakış
 
@@ -25,3 +26,4 @@ Veri seti, **normalizasyon** ve **one-hot encoding** gibi ön işleme teknikleri
 
 - **Test Loss**: 0.3109
 - **Test Accuracy**: %89.67
+
